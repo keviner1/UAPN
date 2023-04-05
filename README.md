@@ -4,7 +4,7 @@ Official PyTorch implementation of our TGRS paper: Deep Adaptive Pansharpening v
 **Framework**
 
 *UAPN*
-<img src="https://github.com/keviner1/imgs/blob/main/UAPN.png?raw=true" width="100px">
+<img src="https://github.com/keviner1/imgs/blob/main/UAPN.png?raw=true" width="400px">
 
 *UAConv*
-<img src="https://github.com/keviner1/imgs/blob/main/UAPN.png?raw=true" width="100px">
+<img src="https://github.com/keviner1/imgs/blob/main/UAPN.png?raw=true" width="400px">
