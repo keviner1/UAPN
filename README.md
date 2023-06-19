@@ -1,4 +1,5 @@
 Official PyTorch implementation of our TGRS paper: Deep Adaptive Pansharpening via Uncertainty-aware Image Fusion.
+[Paper link](https://ieeexplore.ieee.org/abstract/document/10106462/)
 
 -------------------------------------------------
 **Dependencies**
