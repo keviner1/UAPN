@@ -14,9 +14,9 @@ _C = CN()
 # -----------------------------------------------------------------------------
 _C.SERVER = CN()
 _C.SERVER.gpus = 1
-_C.SERVER.TRAIN_DATA = 'E:\\project\\pansharpening\\Data\\WV2_data\\train128'
-_C.SERVER.VAL_DATA = 'E:\\project\\pansharpening\\Data\\WV2_data\\test128'
-_C.SERVER.TEST_DATA = 'E:\\project\\pansharpening\\Data\\WV2_data\\test128'
+_C.SERVER.TRAIN_DATA = ''
+_C.SERVER.VAL_DATA = ''
+_C.SERVER.TEST_DATA = ''
 _C.SERVER.OUTPUT = 'output\\job1'
 # -----------------------------------------------------------------------------
 #                            Model settings
