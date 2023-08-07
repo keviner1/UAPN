@@ -32,7 +32,7 @@ Official PyTorch implementation of our TGRS paper: Deep Adaptive Pansharpening v
 
 **Train**
 
-Edit the data path in config files
+Edit the data path in config files.
 
 > UAPN-B
 
@@ -41,3 +41,6 @@ python train.py --config 1
 > UAPN-S
 
 python train.py --config 2
+
+Then, the checkpoints and log file are saved in output.
+
